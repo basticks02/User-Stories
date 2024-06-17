@@ -1,6 +1,6 @@
 # User-Stories
 
-##User Personas
+## User Personas
 1. Patient Personas:
 
     Name: John Doe
@@ -50,7 +50,7 @@
     Pain Points: Maintaining system integrity, managing high volumes of data.
 
 
-##User Stories
+## User Stories
 1. As a patient, I want to log in to my account, so that I can access my health records.
 2. As a patient, I want to update my profile information, so that my physician has my latest details.
 3. As a patient, I want to view my upcoming appointments on a calendar, so that I can keep track of them.
